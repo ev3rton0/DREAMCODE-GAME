@@ -6,7 +6,7 @@ Para acesso a maiores informações , ao Game Design Document e ao diário de de
  Um estudante de TI, ansioso pela prova de programação, adormece durante uma pausa nos estudos e é transportado para um mundo surreal, onde lógica e fantasia se misturam. Preso no próprio subconsciente, ele deve explorar esse ambiente e resolver puzzles baseados em algoritmos e programação para conquistar a pontuação necessária. Ao completar os desafios, o estudante se liberta do sonho, despertando para o dia da prova, onde descobre que obteve nota máxima graças ao conhecimento adquirido em sua jornada.
 
 ### Mapa :
-![Dreamcode map](<Dream_codding/imgReadme/Dream mapa.png>)
+![Dreamcode map](<Dream_Codding/imgReadme/Dream mapa.png>)
 > Cada área do mapa contém uma pergunta juntamente com um guardião, que através de dicas espalhadas pelo mapa poderá soluciona-las.
 
 ### Tutorial :
