@@ -10,6 +10,7 @@ Para acesso a maiores informações , ao Game Design Document e ao diário de de
 > Cada área do mapa contém uma pergunta juntamente com um guardião, que através de dicas espalhadas pelo mapa poderá soluciona-las.
 
 ### Tutorial :
+- Para baixar a biblioteca `pygame`e `pytmx` digite no terminal `pip install pygame, pytmx`
 - Use `W`, `A`, `S`, `D` para mover e `SHIFT` para correr.
 - Use `Q` e `E` para aumentar ou diminuir o zoom do personagem.
 - Explore o mapa e encontre os NPCs com as perguntas.
